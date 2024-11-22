@@ -5,6 +5,7 @@
 img{
     background-size :cover;
 }
+</style>
 </head>
 This is a comparative analysis on  Forecasting Precipitation (rain) in Chennai.
 <BR><br>
