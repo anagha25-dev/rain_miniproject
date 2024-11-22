@@ -1,7 +1,7 @@
 # rain_miniproject
 <html>
 <head>
-<sytle>
+<style>
 img{
     background-size :cover;
 }
