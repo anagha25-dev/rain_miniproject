@@ -3,7 +3,7 @@
 <head>
 <sytle>
 img{
-    background-size :auto;
+    background-size :cover;
 }
 </head>
 This is a comparative analysis on  Forecasting Precipitation (rain) in Chennai.
