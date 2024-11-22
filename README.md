@@ -1,5 +1,11 @@
 # rain_miniproject
 <html>
+<head>
+<sytle>
+img{
+    background-size :auto;
+}
+</head>
 This is a comparative analysis on  Forecasting Precipitation (rain) in Chennai.
 <BR><br>
 We have done Data collection,Data Cleaning,Feature and Target Definition,Data Spiltting,Model Training and Model Evaluation.
@@ -10,7 +16,8 @@ The models used here are Decision tree,CatBoost,XgBoost,LightGBM,BiLSTM,Random F
 <BR><br>
 Random Forest handles complex patterns, works with incomplete data, avoids overfitting, and performs well on large datasets.
 <body>
-<img src="istockphoto-1257951336-612x612.jpg" style="background-image size:fit";>
+
+<img src="istockphoto-1257951336-612x612.jpg">
     
 </body>
 </html>
