@@ -10,7 +10,7 @@ The models used here are Decision tree,CatBoost,XgBoost,LightGBM,BiLSTM,Random F
 <BR><br>
 Random Forest handles complex patterns, works with incomplete data, avoids overfitting, and performs well on large datasets.
 <body>
-<img src="istockphoto-1257951336-612x612.jpg">
+<img src="istockphoto-1257951336-612x612.jpg" style="background-image size:fit";>
     
 </body>
 </html>
